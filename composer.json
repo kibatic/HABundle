@@ -1,0 +1,25 @@
+{
+  "name": "kibatic/ha-bundle",
+  "description": "Symfony profiler tools for High Availability applications",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "homepage": "https://github.com/kibatic/HABundle",
+  "authors": [
+    {
+      "name": "Elie CHARRA",
+      "email": "elie.charra@kibatic.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/kibatic/HABundle/issues"
+  },
+  "require": {
+    "php": ">=5.5",
+    "symfony/web-profiler-bundle": "~2.7|~3.0",
+  },
+  "autoload" : {
+    "psr-0" : {
+      "Kibatic\\HABundle" : ""
+    }
+  },
+}
