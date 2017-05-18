@@ -1,6 +1,6 @@
 <?php
 
-namespace Kitpages\HABundle\DependencyInjection;
+namespace Kibatic\HABundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

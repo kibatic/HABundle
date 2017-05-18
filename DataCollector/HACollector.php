@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Kitpages\HABundle\DataCollector;
+namespace Kibatic\HABundle\DataCollector;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
