@@ -15,7 +15,7 @@
   },
   "require": {
     "php": ">=5.5",
-    "symfony/web-profiler-bundle": "~2.7|~3.0",
+    "symfony/web-profiler-bundle": "~2.7|~3.0"
   },
   "autoload" : {
     "psr-0" : {
